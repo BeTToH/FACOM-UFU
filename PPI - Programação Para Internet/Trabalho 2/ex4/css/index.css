@@ -1,0 +1,36 @@
+body{
+    color: silver;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding-top: 10px;
+}
+
+section div {
+    margin: 0 auto;
+}
+
+h2 {
+    color: orangered;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration-line: underline;
+    color: orange;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color: white;
+}

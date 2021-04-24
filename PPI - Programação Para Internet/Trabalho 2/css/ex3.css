@@ -1,0 +1,58 @@
+body{
+    line-height: 3rem;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, serif;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+
+header a{
+    color: white;
+    font-size: 14px;
+}
+
+header a:hover{
+    color: blue;
+    font-size: larger;
+}
+
+header a + a {
+    margin-left: 3rem;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 4%;
+
+    border: 0.5px solid gray;
+    border-top: none;
+
+    background-image: url("../images/bg1.jpg");
+    background-size: cover;
+}
+
+main h1{
+    color: dimgrey;
+    font-size: 1.5rem;
+}
+
+section {
+    display: inline-block;
+}
+
+section img {
+    border-radius: 10px;
+    width: 20%;
+    height: 8rem;
+}
+
+section img + img {
+    margin-left: 2rem;
+}
+
+section + section {
+    margin-top: 1.3rem;
+}

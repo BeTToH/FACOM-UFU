@@ -1,0 +1,60 @@
+header{
+    display: inline-block;
+    background-color: #3F4041FF;
+    color: silver;
+    padding: 2px 0 2px 2px;
+    width: 99.9%;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+    margin: 0;
+    line-height: 1.4rem;
+    background-color: aliceblue;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+nav {
+    text-align: center;
+    background-color: gainsboro;
+    margin-top: -15px;
+}
+
+nav button {
+    border: none;
+    outline: none;
+    padding: 0 10px;
+    background-color: inherit;
+    height: 30px;
+    margin: 0;
+    display: inline-block;
+}
+
+nav section ul li{
+    list-style-type: none;
+    float: none;
+    display: inline-block;
+}
+
+nav button:hover {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+button.btnAtivo {
+    font-weight: bold;
+    color: blue;
+}
+
+.tabs section {
+    display: none;
+}
+
+section.tabAtiva {
+    display: block;
+}
