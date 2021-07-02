@@ -1,0 +1,801 @@
+13: 18,4
+2x: 5,20 11,4 19,4
+abal: 19,8
+abandon: 16,4
+abat: 6,4
+abenco: 17,8
+abrac: 7,4
+abracadabr: 7,4
+acab: 10,8 19,8
+acerc: 22,4
+ach: 9,4 18,4
+aco: 12,4
+acomod: 23,12
+acompanh: 2,4
+acontec: 10,4
+adiant: 16,4
+ae: 4,4
+afinal: 23,4
+afric: 5,4
+agind: 6,4
+agor: 4,4 20,4
+agu: 1,4 4,8 16,4
+ah: 4,4 9,4 15,12 16,8
+ai: 3,4 4,16 9,4 13,8 24,4
+aind: 4,4 10,8 15,4 20,4
+ajud: 4,8 5,8 14,4
+alegr: 9,4
+alert: 24,4
+algu: 8,4 9,4 20,4 23,4
+algum: 11,4
+alin: 7,4
+alm: 1,4 6,4 20,8
+almoh: 22,28
+alvor: 9,4
+alvoroc: 24,4
+am: 1,4 2,60 6,8 7,4 9,20 10,12 11,12 15,4 17,36 19,8 23,12
+ama: 17,16
+amanh: 4,36 7,4 23,12 24,4
+amass: 23,4
+amazon: 18,4
+ame: 6,4
+and: 2,16 9,4 15,8
+andanc: 2,4
+ano: 18,4
+ant: 22,4
+anunci: 9,4
+apag: 5,4 9,8
+apaixon: 19,100
+apanh: 5,4
+aprend: 5,4 6,4 12,24 13,4 14,8
+apress: 9,4
+apront: 5,4
+aqu: 11,4 12,4 20,4
+ar: 18,4
+araga: 10,4
+ardent: 7,4
+are: 2,4 4,4
+arl: 15,4
+arreg: 19,8
+arrep: 5,4
+asfalt: 14,4
+assalt: 18,4
+assim: 2,4 4,4 6,12 10,16 19,96 20,4
+astr: 6,4
+ate: 4,4 5,4 7,4 13,4 15,16 17,4 19,100 23,4
+atenca: 19,8
+atent: 4,4
+atitud: 16,4
+atr: 16,4
+atrev: 20,64 23,4
+atual: 5,4
+aut: 24,4
+avel: 7,4
+avent: 5,4
+avia: 19,8
+avis: 12,4 24,4
+azar: 4,8
+azul: 9,4 22,4
+bagulh: 4,4
+baix: 6,4
+balanc: 19,8
+bamb: 20,4
+bande: 24,24
+bandej: 7,4
+bar: 15,4
+barr: 13,4 18,4
+barraca: 4,4
+bat: 3,4 4,24 16,4
+batalh: 24,4
+batom: 7,4
+beb: 4,12
+bebet: 11,4
+beij: 7,4 23,4
+bel: 19,8
+bem: 2,8 3,4 4,4 5,4 7,8 8,4 11,4 15,8 17,4 20,4 21,8 24,4
+benz: 15,4
+beth: 2,4 16,4
+bezerr: 4,8
+bi: 14,8
+bich: 12,4
+bilh: 15,4
+blind: 18,4
+bloc: 20,4
+blus: 19,8
+bob: 3,4 13,4 21,8
+boc: 23,4 24,4
+bom: 5,4 7,4 16,4 20,4
+bot: 24,4
+brac: 4,4
+brasil: 24,4
+brec: 5,4
+brev: 9,4
+brilh: 17,8
+brinc: 12,4
+bulic: 8,4
+burac: 15,4
+burbur: 7,4
+busti: 19,8
+cabec: 4,8 5,8 6,4 16,4
+caboc: 4,8
+cachac: 4,4
+cachecol: 7,4
+cad: 6,4 15,12
+cadent: 12,4
+cafun: 19,8
+caguet: 4,4
+cai: 19,8 23,4
+caip: 15,4
+cair: 12,16 16,4
+caiu: 18,4
+cal: 5,4
+caldeira: 7,4
+calixt: 7,4
+calm: 22,4
+caminh: 1,4 2,16 15,8 19,8 23,4
+canalh: 4,4
+cancion: 22,4
+candidat: 4,8
+candombl: 5,4
+cans: 2,4
+cant: 2,4 5,4 15,4 18,4 22,8
+cao: 4,24
+caoz: 4,4
+car: 7,4 11,12 16,4 18,4 19,8
+carnav: 9,4 24,4
+caroc: 24,16
+carr: 18,4
+carreg: 9,4
+cart: 10,4
+cartilh: 23,4
+cartol: 3,4
+carvalh: 2,4 16,4
+cas: 9,4 16,4 19,8 23,12
+casc: 22,4
+cascad: 15,8
+cativ: 5,4
+cavac: 1,4
+centen: 15,4
+cerc: 15,12
+cerej: 7,4
+cerol: 4,4
+cerr: 5,4
+cert: 3,4 16,4
+cervej: 15,8 23,4
+cetim: 2,4
+ceu: 7,4 9,4 16,8
+cha: 14,16
+chal: 16,4
+cham: 19,8
+chameg: 19,8
+charm: 19,8
+cheg: 2,8 4,4 5,4 12,8 15,4 19,16
+chei: 2,4 7,4
+cheir: 7,4
+chin: 23,8
+chocolat: 7,4
+chor: 3,4 21,8
+chuv: 4,8
+cis: 12,4
+clara: 17,8
+clim: 18,4 21,8
+cois: 11,8 15,4 23,4
+coit: 18,4
+colh: 5,40 7,4 11,4
+coloss: 24,4
+com: 5,4 18,8 23,4
+comec: 11,4
+comemor: 15,8
+comig: 12,32 19,8
+companh: 16,8
+compr: 15,4
+compreend: 8,4
+comprov: 4,4
+conf: 4,4
+cong: 4,8
+conhec: 5,4
+conquist: 9,4 16,4
+consegu: 13,4 17,4
+conselh: 6,8
+consult: 9,4
+cont: 5,12
+convers: 23,4
+cop: 23,12
+copacab: 5,4
+copi: 8,4
+cor: 5,4
+coraca: 3,4 6,4 7,4 9,32 10,4 15,4 16,4 19,8 23,12
+corda: 20,4
+corp: 5,4 8,4 9,4 19,8
+cozinh: 5,36
+cpi: 18,4
+crianc: 18,4
+cril: 7,4
+crim: 18,4
+croch: 19,8
+cruz: 15,12
+cuid: 4,8
+cumpad: 4,16
+cun: 22,4
+cur: 17,4
+d: 1,4
+dal: 13,4
+dan: 17,4
+danc: 2,4 15,4
+dand: 6,4
+dar: 13,4 19,8 21,8
+dav: 10,4
+decent: 14,4
+decot: 19,8
+ded: 7,4
+dediq: 6,4
+defin: 9,4 17,4
+dei: 13,4
+deix: 6,4 9,12 12,52 19,8 20,4 23,12
+demor: 21,16
+deng: 15,4
+dentr: 17,4 19,8
+depend: 10,4
+derram: 2,4
+desal: 19,8
+descans: 2,4 22,4
+desempar: 11,4
+desempreg: 4,4
+deseng: 9,8
+desist: 4,4
+despert: 17,4
+destro: 24,4
+desvend: 19,8
+deu: 4,12 11,8 16,16 19,8 20,4
+dev: 3,8 4,16
+dezen: 15,4
+dia: 2,4 5,4 9,8 16,4 23,4
+diab: 23,4
+diam: 12,4
+difer: 9,4 11,4 18,4 19,8
+dificil: 9,4 15,8
+direit: 2,4
+discurs: 24,4
+diss: 4,16 17,8 23,4
+dit: 6,4 16,4
+divid: 4,4
+diz: 4,24 5,4 6,4 8,4 10,4 11,8 15,12 16,8 20,68
+doc: 7,4 15,12 16,8 23,4
+doi: 20,12 21,16
+domin: 8,4
+dor: 1,8 6,4 10,8 17,4
+dou: 12,4
+drexl: 22,4
+dudu: 19,4
+duerm: 22,12
+dur: 19,8
+duzent: 4,8
+eee: 12,40
+el: 22,8
+eleica: 4,4
+emili: 23,4
+emoca: 17,8
+en: 22,32
+encant: 2,4
+encerr: 2,8
+ench: 18,4
+encontr: 6,4
+enfeitic: 7,8
+enfim: 3,4
+enfr: 6,4
+enfrent: 11,8
+engan: 4,4
+engol: 13,4
+enlouquec: 19,8
+enrosqu: 19,12
+ensin: 2,8 5,4 20,4 23,4
+ent: 20,4
+entend: 5,4 20,4
+entidad: 4,4
+entr: 12,4
+entreg: 6,4
+erg: 6,4
+err: 1,4 9,4
+escol: 14,4 24,4
+escond: 10,4 19,8
+escorreg: 13,4
+escravida: 5,4
+escrev: 10,4 14,4 15,4
+escuchart: 22,4
+escur: 19,8
+esmerald: 12,4
+esp: 1,16
+espac: 12,4
+espelh: 1,4
+esper: 11,4
+esperanc: 3,4 15,8
+esperandom: 22,8
+esquec: 15,4 16,4
+esquin: 15,4
+est: 8,4
+estr: 2,4
+estrel: 12,4
+estremec: 19,8
+etern: 15,4
+eulal: 15,4
+exal: 3,4
+exib: 12,24
+exist: 18,4 24,4
+experienc: 6,4
+explic: 16,4 17,4
+fac: 2,8 12,4
+facil: 9,4
+fal: 3,8 4,4 11,8 20,4 21,8 24,8
+fam: 16,4
+fatal: 17,4
+favel: 14,4 24,8
+faz: 5,12 8,4 11,4 15,8 17,4 18,4 19,112 23,8 24,8
+fe: 15,4
+feija: 5,4
+feir: 24,4
+feit: 20,32
+feliz: 2,4 6,4 7,4 18,4
+fest: 2,4
+fez: 2,4 4,8 17,8 18,4
+fic: 4,4 9,16 13,4 18,4 23,4
+fil: 12,4
+filh: 18,4
+fim: 3,4 4,4
+fin: 4,4
+fing: 8,4 19,8
+fiqu: 16,4
+fiz: 2,12
+fl: 1,12 11,8
+fog: 5,4
+forc: 6,4 8,4 18,4
+form: 10,4
+fraquej: 19,8
+fri: 14,4
+fu: 4,4
+fud: 4,4
+fum: 4,4
+fund: 13,8
+ganda: 19,8
+ganh: 4,4
+gent: 5,4 8,4 10,8 11,4 14,8 15,4 17,16 18,12 23,20 24,4
+gigant: 7,4
+ging: 15,8
+giz: 7,4
+goiab: 4,4
+gost: 4,4 8,16 19,12 20,8
+grav: 5,4
+gravat: 4,4
+gravet: 5,4
+grup: 15,4
+guerr: 2,8
+gui: 4,4
+guinet: 6,4
+ha: 4,4 8,16 9,4
+habilit: 15,4
+hah: 4,8
+harmoni: 8,4
+hav: 20,4
+hay: 22,16
+hazm: 22,16
+heranc: 5,4
+herm: 20,4
+hist: 5,4
+hoj: 1,8 4,32 7,4 17,4
+hom: 4,4 18,4
+hor: 4,8 24,4
+hortel: 7,4
+ialalaialala: 15,4
+ians: 15,8
+ilusa: 23,4
+imens: 2,4
+imperi: 15,4
+improvis: 12,8
+incorpor: 4,8
+inoc: 19,8
+inson: 18,4
+inspiraca: 15,4
+int: 19,8 24,4
+intenca: 23,4
+ira: 22,4
+iraj: 15,8
+ire: 10,8 22,4
+irma: 4,16 14,4
+isabel: 24,4
+ja: 1,4 2,8 3,4 6,4 10,12 11,12 12,4 18,4 19,8 20,4
+jabuticab: 7,4
+jacarand: 22,4
+jamal: 2,8 16,4
+jant: 4,4
+jardim: 3,4
+jeit: 18,4
+jess: 11,48
+joann: 5,4
+jog: 4,8 15,4 19,8
+jong: 15,4
+jorg: 10,4 21,4 22,4
+jovelin: 12,4
+junt: 1,4 22,8
+jur: 18,4 19,8
+jus: 4,4
+la: 4,24 7,12 10,8 11,4 13,4 15,56 16,8 22,12
+lac: 20,4
+lad: 4,4 6,4 15,4
+lagr: 5,4
+lai: 15,24
+lalalaialalalalala: 15,4
+lament: 6,4
+larg: 18,4
+lat: 4,4
+lavr: 20,4
+legal: 5,4 21,8
+legu: 2,4
+lei: 12,4
+leit: 7,4
+lelelel: 24,8
+lelelelelelelelel: 24,8
+lembr: 2,4 5,4 9,4
+lembranc: 7,4
+lend: 2,4
+lenh: 5,4
+ler: 14,4
+letr: 18,4
+lev: 2,36 5,4 9,12 13,4 15,4 18,4 20,8
+levant: 23,4
+levi: 16,4
+liber: 18,4
+lica: 6,4
+lid: 24,8
+lig: 4,24 19,8
+lind: 10,8 11,8
+llev: 22,4
+lo: 20,4
+lob: 15,8
+log: 4,4 19,8
+long: 2,4
+lot: 4,4
+louc: 8,4 18,4
+lu: 2,4 15,4 17,8
+lua: 1,4 2,8 7,4 18,4
+lug: 13,4 15,52 18,4 20,4 22,20
+lut: 6,4 15,8
+luz: 12,8 15,12 17,8 18,4
+mac: 7,4
+machuc: 1,4 19,8
+macumb: 4,8
+mad: 24,4
+madur: 15,52 16,8
+mae: 14,4
+mag: 23,4
+mago: 1,4
+mal: 6,4 14,4 20,4
+malandr: 4,28 13,12
+malandre: 13,4
+malh: 24,4
+maltrat: 19,8
+malv: 14,4
+mamad: 18,4
+man: 4,8
+mand: 4,28 12,4 16,8 23,4
+mangu: 16,4 24,4
+manh: 7,4 15,8
+mani: 9,4
+mans: 2,4
+mant: 5,4
+mao: 2,4 20,4
+mar: 5,4 9,4 15,4
+marc: 9,12 13,4
+mau: 17,4 19,8
+med: 18,4
+mejill: 22,4
+melhor: 15,8 21,16 23,4
+melod: 18,4
+menin: 5,4 14,28
+menos: 4,4
+ment: 5,4
+mercada: 15,4
+merec: 5,4 6,4
+mesm: 5,4
+mestr: 23,4
+met: 5,4 18,4
+meti: 19,8
+mex: 8,4
+mil: 7,4 15,4
+milh: 15,4
+mim: 3,4 4,8 10,12 17,8 20,4 21,8
+min: 19,8
+minh: 1,4
+minor: 8,4
+missa: 4,4
+misteri: 19,8
+mit: 15,8
+moc: 13,4 14,4 24,4
+mod: 2,4 18,4
+mol: 13,4
+mor: 16,4
+morr: 4,4 18,4 24,24
+mostr: 12,24
+mud: 4,4 13,4 16,4 18,4
+muit: 14,8 17,8 23,4
+mund: 4,4 11,8 13,8 14,4 15,8 18,16 23,4 24,4
+nad: 11,4
+namor: 2,4
+nao: 1,8 2,12 3,12 4,12 5,12 6,8 8,24 9,20 10,4 12,36 13,12 14,4 15,4 16,32 17,8 18,4 19,72 20,16 21,32 24,4
+nasc: 11,20 17,4 24,8
+natal: 5,4
+natur: 5,4
+neg: 9,4 19,8
+negr: 12,12
+nelson: 1,4
+nen: 18,4
+ness: 4,4
+nest: 14,4
+ning: 8,4 13,4 17,4
+nobr: 19,4
+noit: 19,8 23,4
+nom: 11,28 14,4 15,8
+norm: 23,4
+nov: 9,4 24,8
+novel: 24,4
+nuanc: 5,4
+nub: 22,4
+nunc: 12,4
+ogum: 15,8
+oh: 4,8
+ohh: 4,4
+olh: 1,4 2,8 3,4 4,8 5,4 7,4 14,8 19,8
+ond: 2,28 10,12 12,4 13,8
+operari: 4,4
+opinia: 5,4
+orix: 5,4
+oswald: 15,8
+otari: 12,4
+outr: 3,4 4,4 8,4 23,4 24,4
+pag: 16,4 23,4
+pagod: 5,4 12,20 15,4 19,8
+pai: 18,40
+pal: 4,4
+palavr: 16,4
+pan: 5,4
+pao: 23,4
+par: 2,16
+part: 21,8
+partid: 12,8
+pass: 1,4 2,4 9,20 12,8 15,4 16,4 20,4 23,12
+pau: 5,40 24,24
+paul: 9,4
+paz: 15,8 18,4
+pe: 5,4 14,16 18,4
+pech: 22,8
+pechinch: 15,4
+ped: 4,60 19,8
+pedac: 19,8
+peg: 12,4 21,8
+peit: 20,4
+pel: 12,4
+penh: 5,4
+pens: 9,4 10,4 16,8 19,8 21,8
+pequen: 11,4
+per: 4,16
+perambul: 14,4
+perceb: 4,4
+perd: 23,4
+perda: 16,4
+perfum: 3,4 22,8
+pergunt: 17,4
+pern: 18,4
+perol: 12,8
+pert: 1,4 15,8
+pirat: 18,4
+pitel: 19,8
+pobr: 14,4
+poc: 13,4
+pod: 1,4 6,4 9,8 11,8 12,4 13,4 14,4 15,8 17,4 18,4 19,8 21,8
+poe: 13,4
+poet: 15,4
+poli: 4,20
+polic: 4,20
+por: 9,8
+porca: 11,8
+portel: 9,12 15,4 16,4
+poss: 9,4 13,4 15,4 19,100 21,8
+pot: 7,4
+pouc: 18,4
+prai: 19,8
+prat: 4,4 7,4
+praz: 8,4 15,8
+prec: 24,4
+preconceit: 5,4
+prend: 4,8
+princip: 11,4
+pro: 7,8 12,4 15,4 16,4 18,4 20,4
+profund: 24,4
+promess: 23,4
+prov: 4,4
+prox: 4,4
+pud: 10,8
+pur: 7,4
+qu: 3,4 5,40 7,4 13,4 15,4 18,8 19,16 24,4
+qualqu: 13,4 16,4
+quart: 19,8
+quas: 18,4
+queim: 19,8
+queix: 3,4
+quent: 7,4 8,4
+quer: 1,4 2,24 12,4 14,8 16,20 19,24 23,4 24,4
+questa: 4,8
+quil: 16,4
+quint: 13,4
+quis: 10,8 16,8 19,8 21,8
+rab: 5,4 19,8
+raban: 5,4
+rac: 4,4 5,4
+raiz: 24,4
+rapaz: 14,4
+rapp: 4,4
+ras: 1,4
+raster: 13,4
+raza: 21,12
+rebol: 13,4
+receit: 23,4
+refra: 16,4
+refund: 13,4
+reg: 11,4
+rei: 2,4 16,4
+relembr: 15,4
+remedi: 17,4
+remelex: 19,8
+remex: 8,4
+renasc: 17,4
+repent: 12,12
+respir: 22,4
+respond: 17,4
+revelaca: 18,4
+ric: 18,4
+rincon: 22,16
+rio: 9,16
+rir: 18,4
+robert: 8,4
+rod: 2,8 18,8
+rond: 15,4
+ros: 2,4 3,16
+roub: 3,4 18,4
+rua: 18,4
+rub: 12,4
+sa: 8,4
+sab: 2,8 3,4 5,8 8,4 9,4 10,8 12,4 15,4 16,16 21,8 23,12
+sacan: 18,4
+sacrifici: 4,4
+saf: 4,8 12,4
+safada: 4,4
+sai: 4,4 19,16
+sali: 19,8
+samb: 8,60 9,4 15,8 16,8 18,4 19,8 20,68
+sant: 5,4 13,4
+santiag: 23,4
+sao: 15,4
+sarr: 13,4
+saudad: 2,4 10,8 12,4 15,4
+segu: 23,12
+segur: 12,16 13,4
+sei: 2,8 3,4 4,4 10,4 14,4 17,12
+sempr: 9,4 13,4 14,4
+send: 18,4
+senh: 19,8
+sensac: 5,4
+sent: 5,4 9,4 12,4 23,24
+senzal: 5,4
+sequenc: 21,8
+ser: 2,20 6,4 7,4 9,4 15,8 17,4 18,12 21,16 23,4
+serest: 2,4
+seri: 12,4 19,8
+serv: 24,4
+set: 15,4
+si: 22,4
+silv: 4,8
+sim: 7,4 20,4
+simples: 3,4
+sint: 4,4 8,8
+so: 1,4 2,16 5,48 6,4 8,4 9,8 12,28 14,12 18,8 19,24 20,4 21,8 23,4
+sofr: 6,4 8,4 20,4
+sol: 1,4 17,8
+som: 12,4
+sombr: 22,4
+sonh: 3,8 7,4 14,8 15,8 23,4
+sorris: 1,4 15,8
+sosseg: 19,8
+su: 15,8
+sub: 4,4
+subtra: 12,4
+sucumb: 6,4
+suec: 15,4
+sufoc: 13,4
+suj: 4,8
+sussurr: 19,8
+ta: 18,44 21,8 23,12
+tacuaremb: 22,4
+tamb: 4,8 5,4 15,4 17,4
+tant: 2,4
+tard: 11,4 23,4
+televisa: 24,4
+temp: 5,4 9,4 15,4 23,24
+temper: 5,4
+tend: 4,4
+tent: 13,4
+ter: 4,4 11,8 16,4 17,4 18,4 20,4
+termin: 2,8 3,4 15,4
+terr: 2,8 4,4 15,4
+ti: 3,4
+tia: 15,4
+tir: 1,4 19,8
+titul: 11,4
+to: 10,4 18,4
+tod: 4,4 5,4 6,4 7,4 9,4 11,4 18,8 19,8 24,4
+tom: 8,4 9,4 19,8 23,12
+trabalh: 24,4
+trac: 23,4
+tradic: 5,4
+tranquil: 21,8
+traz: 5,4 9,4 11,4 15,4
+tre: 7,8
+tregu: 2,4
+trist: 9,4 23,12
+tristonh: 3,4
+tud: 4,4 6,4 10,4 11,4 18,20
+turmalin: 12,4
+umbig: 19,8
+un: 22,44
+una: 22,12
+unia: 10,4
+usa: 5,4
+use: 2,4
+usou: 4,4
+va: 13,4
+vacil: 12,28 13,4
+vadi: 14,4
+vag: 2,4
+vai: 3,4 4,24 13,4 15,4 18,4 21,16 23,20 24,4
+val: 8,4 23,12
+valsecit: 22,4
+vantag: 18,4
+vao: 6,4 20,4
+vaz: 15,8
+ve: 8,4
+vej: 1,4 4,8
+vem: 4,8 17,8 19,16 20,4 21,8
+venc: 13,4 17,4
+vend: 6,4
+venh: 12,4
+ver: 3,4 5,4 6,4 8,4 23,4 24,4
+vera: 3,4
+verd: 24,4
+verdad: 23,8
+vers: 2,8 12,12
+versatil: 4,4
+vert: 5,4
+vest: 2,4
+vez: 3,4 4,8 17,4 24,4
+vi: 9,4 12,4 13,4 18,4
+vid: 1,4 5,4 6,4 9,16 13,4 18,4 21,8 23,20
+vil: 24,4
+vim: 2,16 12,24 13,4
+vinh: 16,4
+viol: 9,4
+vir: 3,4 18,4
+vist: 14,4
+vital: 6,4 20,4
+viu: 4,4 15,4
+viv: 1,4 8,4 14,4 18,4
+vo: 15,4
+voc: 1,4 4,40 9,4 10,24 11,16 15,8 19,24 21,16
+volt: 3,8 9,4 10,8 13,8 16,12 21,8
+vontad: 8,8 21,8 23,12
+vot: 4,32 18,4
+vou: 2,16 4,16 11,8 13,12 15,4 16,4 19,24 21,24
+vov: 5,40
+voz: 5,4
+xic: 7,4
+yo: 22,12
+ze: 24,20
+zec: 5,8
+zon: 18,4
+zu: 21,8

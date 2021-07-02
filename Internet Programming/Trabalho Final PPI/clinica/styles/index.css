@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#sobre-nos{
+    padding-top: 1rem;
+}
+
+#valores{
+    text-align: center !important;
+}
+
+section + section{
+    margin-top: 1rem;
+}
+
+div + div{
+    margin-top: 1rem;
+}
+

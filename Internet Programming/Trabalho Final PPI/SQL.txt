@@ -1,0 +1,146 @@
+--
+-- Estrutura da tabela `agenda`
+--
+
+CREATE TABLE `agenda` (
+  `CODIGO` int(10) UNSIGNED NOT NULL,
+  `DATA_` date NOT NULL,
+  `HORARIO` tinyint(1) NOT NULL,
+  `NOME` varchar(60) NOT NULL,
+  `SEXO` varchar(1) NOT NULL,
+  `EMAIL` varchar(50) NOT NULL,
+  `CODIGO_MEDICO` int(10) UNSIGNED NOT NULL
+);
+
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `base_enderecos_ajax`
+--
+
+CREATE TABLE `base_enderecos_ajax` (
+  `CEP` varchar(8) NOT NULL,
+  `LOGRADOURO` varchar(70) NOT NULL,
+  `CIDADE` varchar(50) NOT NULL,
+  `ESTADO` varchar(2) NOT NULL
+);
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `funcionario`
+--
+
+CREATE TABLE `funcionario` (
+  `CODIGO` int(10) UNSIGNED NOT NULL,
+  `DATA_CONTRATO` date NOT NULL,
+  `SALARIO` decimal(8,2) NOT NULL,
+  `SENHA_HASH` varchar(100) NOT NULL
+);
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `medico`
+--
+
+CREATE TABLE `medico` (
+  `CODIGO` int(10) UNSIGNED NOT NULL,
+  `ESPECIALIDADE` varchar(30) NOT NULL NULL,
+  `CRM` varchar(10) NOT NULL
+);
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `paciente`
+--
+
+CREATE TABLE `paciente` (
+  `CODIGO` int(10) UNSIGNED NOT NULL,
+  `PESO` decimal(5,2) DEFAULT NULL,
+  `ALTURA` decimal(3,2) DEFAULT NULL,
+  `TIPO_SANGUINEO` varchar(3) DEFAULT NULL
+);
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `pessoa`
+--
+
+CREATE TABLE `pessoa` (
+  `CODIGO` int(10) UNSIGNED NOT NULL,
+  `NOME` varchar(60) NOT NULL,
+  `SEXO` varchar(1) NOT NULL,
+  `EMAIL` varchar(50) NOT NULL,
+  `TELEFONE` varchar(15) NOT NULL,
+  `CEP` varchar(10) NOT NULL,
+  `LOGRADOURO` varchar(60) NOT NULL,
+  `CIDADE` varchar(60) NOT NULL,
+  `ESTADO` varchar(2) NOT NULL
+);
+
+-- --------------------------------------------------------
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `agenda`
+--
+ALTER TABLE `agenda`
+  ADD PRIMARY KEY (`CODIGO`),
+  ADD KEY `CODIGO_MEDICO` (`CODIGO_MEDICO`);
+
+--
+-- Indexes for table `base_enderecos_ajax`
+--
+ALTER TABLE `base_enderecos_ajax`
+  ADD PRIMARY KEY (`CEP`);
+
+--
+-- Indexes for table `funcionario`
+--
+ALTER TABLE `funcionario`
+  ADD PRIMARY KEY (`CODIGO`);
+
+--
+-- Indexes for table `medico`
+--
+ALTER TABLE `medico`
+  ADD PRIMARY KEY (`CODIGO`);
+
+--
+-- Indexes for table `paciente`
+--
+ALTER TABLE `paciente`
+  ADD PRIMARY KEY (`CODIGO`);
+
+--
+-- Indexes for table `pessoa`
+--
+ALTER TABLE `pessoa`
+  ADD PRIMARY KEY (`CODIGO`),
+  ADD UNIQUE KEY `TELEFONE` (`TELEFONE`),
+  ADD UNIQUE KEY `EMAIL` (`EMAIL`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `agenda`
+--
+ALTER TABLE `agenda`
+  MODIFY `CODIGO` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+--
+-- AUTO_INCREMENT for table `pessoa`
+--
+ALTER TABLE `pessoa`
+  MODIFY `CODIGO` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+--
+-- AUTO_INCREMENT for table `veiculo`
+--

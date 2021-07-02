@@ -1,0 +1,28 @@
+#galeria-imgs{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+footer {
+    margin-top: 1rem;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+main{
+    margin-top: 2rem;
+}
+
+.seta{
+    width: 12%;
+    height: 12%;
+
+}
+
+.seta-inversa{
+    transform: rotate(180deg);
+}

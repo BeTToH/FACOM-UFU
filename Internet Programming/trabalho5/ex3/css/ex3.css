@@ -1,0 +1,45 @@
+body {
+    background-color: #eee;
+}
+
+.loginBox{
+    font-family: Georgia, serif;
+    width: 50%;
+    padding: 1.5rem;
+    background-color: white;
+    border: 0.8px solid #aaa;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    display: block;
+    margin: 8px 0 15px;
+    padding: 8px;
+    width: 100%;
+    border: 0.5px solid #888;
+    border-radius: 4px;
+}
+
+input:focus{
+    border: 0.5px solid darkorange;
+    box-shadow: 0 0 5px orangered;
+    outline: none;
+}
+
+.centralizado {
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+input + button {
+    margin-top: 10px;
+    width: 100%;
+}

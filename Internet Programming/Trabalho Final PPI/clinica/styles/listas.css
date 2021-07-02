@@ -1,0 +1,12 @@
+.table-focusFirst th:first-child {
+    position: sticky;
+    left: 0;
+}
+
+.table-focusFirst td:first-child {
+    position: sticky;
+    left: 0;
+    background-color: #F2B138;
+    color: #003F63;
+    font-weight: 500;
+}

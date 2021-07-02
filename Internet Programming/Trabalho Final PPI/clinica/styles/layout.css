@@ -1,0 +1,173 @@
+body{
+    line-height: 1.4rem;
+    font-family: "Helvetica Neue", Helvetica, serif;
+}
+/* Cabeçalho */
+header {
+    background-color: #003F63;
+    padding: 2px 0 4px 0;
+    width: 100%;
+    margin: 0;
+}
+
+header h1 {
+    color: #D9D9D9;
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline #F2B138;
+    width: 30%;
+}
+
+header h1 a{
+    text-decoration: none;
+    color: inherit;
+}
+
+header h1 a:hover{
+    color: #F2B138;
+}
+
+header h1.ativo{
+    text-decoration: underline #D9D9D9;
+    color: #F2B138 ;
+}
+
+header h1.ativo a:hover{
+    color: #D9D9D9;
+}
+
+#navbar {
+    margin: 0 5%;
+    padding-top: 1rem;
+}
+
+#navbar button{
+    background-color: #D9D9D9;
+}
+
+#navbar button:active{
+    color: #F2B138;
+}
+
+#navbarBtns {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+#navbarBtns a {
+    color: #D9D9D9;
+    font-size: 1.3rem;
+    border-radius: 15px;
+    padding: 5px 8px;
+    text-decoration: none;
+}
+
+#navbarBtns a.ativo{
+    color: #F2B138;
+}
+
+#navbarBtns a:hover{
+    background-color: #F2B138;
+    color: #003F63;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+#navbarBtns a.ativo:hover{
+    background-color: transparent;
+    color: #F2B138;
+    font-weight: 500;
+}
+
+#navbarBtns ul li{
+    list-style-type: none;
+    float: right;
+}
+
+/* ------------------------------------ */
+
+footer{
+    position: fixed;
+    text-align: center;
+    font-size: 0.8rem;
+    background-color: #003F63;
+    color: #F2B138;
+    bottom: 0;
+    width: 100%;
+}
+main{
+    margin-bottom: 3rem;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #003F63;
+    font-weight: 700;
+}
+
+.msgDiv{
+    background-color: #F2B138;
+    color: #003F63;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+.formAzul{
+    border: 0.6px solid beige;
+    border-radius: 10px;
+    background-color: #003F63;
+    padding: 1rem 0.3rem;
+}
+
+.formAzul button{
+    float: right;
+    background-color: #D9D9D9;
+    border: 0.3px solid #F2B138;
+    border-radius: 5px;
+    color: #003F63;
+    margin-top: 1rem;
+    width: 100%;
+    padding: 8px;
+    font-weight: 505;
+}
+
+.formAzul button:hover{
+    background-color: #F2B138;
+}
+
+.table thead tr th{
+    background-color: #003F63;
+    color: #F2B138;
+    font-weight: bold;
+}
+
+.table {
+    text-align: center;
+}
+
+.table tr {
+    vertical-align: middle;
+}
+
+.table-responsive {
+    border-radius: 8px;
+}
+
+.dropdown-menu{
+    background-color: #003F63 !important;
+    color: #F2B138 !important;
+}
