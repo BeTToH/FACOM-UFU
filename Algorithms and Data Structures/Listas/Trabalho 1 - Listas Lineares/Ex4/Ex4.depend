@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631473945 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DinamicaEncadeadaOrdenada.h"
+
+1631473905 c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex4\dinamicaencadeadaordenada.h
+
+1631474097 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex4\dinamicaencadeadaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	"DinamicaEncadeadaOrdenada.h"
+

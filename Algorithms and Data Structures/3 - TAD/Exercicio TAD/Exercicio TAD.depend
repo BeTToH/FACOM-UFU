@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1628448435 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\exercicio tad\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+
+1628449068 c:\programming stuff\facom - ufu\algorithms and data structures\tad\exercicio tad\ponto.h
+
+1628449165 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\exercicio tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+
+1628447493 c:\programming stuff\facom - ufu\algorithms and data structures\tad\exercicio tad\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+

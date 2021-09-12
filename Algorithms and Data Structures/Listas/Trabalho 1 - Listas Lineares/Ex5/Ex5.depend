@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631380777 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DinamicaEncadeadaCircular.h"
+
+1631379366 c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex5\dinamicaencadeadacircular.h
+
+1631380688 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex5\dinamicaencadeadacircular.c
+	<stdlib.h>
+	"DinamicaEncadeadaCircular.h"
+

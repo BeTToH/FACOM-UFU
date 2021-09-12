@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629859685 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\listacircularbebidas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircularBebidas.h"
+
+1629858555 c:\programming stuff\facom - ufu\algorithms and data structures\tad\listacircularbebidas\listacircularbebidas.h
+
+1629861140 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\listacircularbebidas\listacircularbebidas.c
+	<stdlib.h>
+	"ListaCircularBebidas.h"
+

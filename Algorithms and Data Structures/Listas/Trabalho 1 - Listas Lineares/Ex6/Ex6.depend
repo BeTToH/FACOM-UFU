@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1630628211 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex6\listaencadduploreais.c
+	<stdlib.h>
+	"ListaEncadDuploReais.h"
+
+1630628014 c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex6\listaencadduploreais.h
+
+1630628318 source:c:\programming stuff\facom - ufu\algorithms and data structures\tad\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadDuploReais.h"
+
+1631141845 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex6\listaencadduploreais.c
+	<stdlib.h>
+	"ListaEncadDuploReais.h"
+
+1631140828 c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex6\listaencadduploreais.h
+
+1631141067 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\trabalho 1 - listas lineares\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadDuploReais.h"
+

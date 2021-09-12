@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1630456687 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\listarecursiva\listarecursiva.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaRecursiva.h"
+
+1630456559 c:\programming stuff\facom - ufu\algorithms and data structures\listas\listarecursiva\listarecursiva.h
+
+1630456599 source:c:\programming stuff\facom - ufu\algorithms and data structures\listas\listarecursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaRecursiva.h"
+
