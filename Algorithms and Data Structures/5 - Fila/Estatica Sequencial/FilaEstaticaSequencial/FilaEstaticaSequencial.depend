@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633308285 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\filaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstaticaSequencial.h"
+
+1633308116 c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\filaestaticasequencial\filaestaticasequencial.h
+
+1633308298 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\filaestaticasequencial\filaestaticasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstaticaSequencial.h"
+

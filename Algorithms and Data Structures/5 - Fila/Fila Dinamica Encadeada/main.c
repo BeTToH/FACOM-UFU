@@ -1,22 +1,43 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "ListaCircularBebidas.h"
+#include "FilaDinamicaEncadeada.h"
+
+void imprime_fila(Fila f){
+    Bebida beb;
+    Fila *aux = cria_fila();
+    int flag = 1;
+    printf("Fila:\n");
+    while(fila_vazia(f) == 0) {
+        remove_inicio(f, &beb);
+
+        printf("Nome: %s ; Valor: %.2f ; Volume: %d\n", beb.nome, beb.preco, beb.volume);
+        insere_fim(aux, beb);
+    }
+
+    while(fila_vazia(aux) == 0) {
+        remove_inicio(aux, &beb);
+
+        insere_fim(f, beb);
+    }
+
+    apaga_fila(aux);
+}
 
 int main()
 {
-    Lista *li = NULL;
+    Fila *f = NULL;
     int opt, size = 0;
 
     while(opt != 6){
             printf("---------------------------\n");
             printf("Selecione uma opcao:\n");
-            printf("0 - Criar Lista\n1 - Inserir\n2 - Remover\n3 - Esvaziar\n4 - Imprime Lista\n5 - Apagar Lista\n6 - Sair\n");
+                        
             scanf("%d", &opt);
 
         if(opt == 0){
-            li = cria_lista();
+            f = cria_fila();
             printf("A lista foi criada com sucesso!\n");
-        } else if (li == NULL){
+        } else if (f == NULL){
             printf("Eh necessario criar a lista antes de realizar qualquer operacao!\nPara isso utilize a opcao 1.\n");
         } else if(opt == 1){
             Bebida beb;
@@ -31,7 +52,7 @@ int main()
             printf("Volume: ");
             scanf("%d", &beb.volume);
 
-            int flag = insere_fim(li, beb);
+            int flag = insere_fim(f, beb);
             if(flag == 1){
                 printf("O elemento foi inserido com sucesso!\n");
                 size++;
@@ -39,42 +60,29 @@ int main()
                 printf("ERRO! Nao foi possivel inserir o elemento na lista!\n");
             }
         } else if(opt == 2){
-            if(lista_vazia(li) == 0){
+            if(fila_vazia(f) == 0){
                 Bebida beb;
-                int flag = remove_ini(li, &beb);
+                int flag = remove_inicio(f, &beb);
                 if(flag == 1){
                     printf("Elemento Removido\n");
                     printf("Nome: %s ; Valor: %.2f ; Volume: %d\n", beb.nome, beb.preco, beb.volume);
                     size--;
                 } else {
-                    printf("ERRO! Não foi possivel remover o elemento!\n");
+                    printf("ERRO! Nï¿½o foi possivel remover o elemento!\n");
                 }
             } else {
-                printf("Não nenhum elemento na lista para ser removido!\n");
+                printf("Nao ha nenhum elemento na lista para ser removido!\n");
             }
-        } else if(opt == 3){
-            int flag = esvazia_lista(li);
-            if(flag == 1){
-                printf("A lista foi esvaziada com sucesso!\n");
-                size = 0;
-            }
-        } else if (opt == 4){
-            for (int i = 0; i < size; i++){
-                Bebida beb;
-                int flag = get_elem_pos(li, i, &beb);
-                if(flag == 1){
-                    printf("Elemento %d\n", i+1);
-                    printf("Nome: %s ; Valor: %.2f ; Volume: %d\n", beb.nome, beb.preco, beb.volume);
-                } else {
-                    printf("Erro ao obter elemento da posicao %d\n", i+1);
-                }
-            }
+        } else if (opt == 3){
+            imprime_fila(f);
+        } else if (opt == 4) {
+            esvazia_fila(f);
+            printf("A lista foi esvaziada com sucesso!\n");
         } else if (opt == 5) {
-            apaga_lista(li);
+            apaga_fila(f);
             printf("A lista foi apagada com sucesso!\n");
         }
     }
 
-    apaga_lista(li);
     return 0;
 }

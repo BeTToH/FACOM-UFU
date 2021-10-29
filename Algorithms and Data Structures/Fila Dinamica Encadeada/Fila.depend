@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1633480199 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\dinamica encadeada\fila\filadinamicaencadeada.c
+	<stdlib.h>
+	"FilaDinamicaEncadeada.h"
+
+1633479766 c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\dinamica encadeada\fila\filadinamicaencadeada.h
+
+1633480143 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila\dinamica encadeada\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDinamicaEncadeada.h"
+
+1634755825 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila dinamica encadeada\filadinamicaencadeada.c
+	<stdlib.h>
+	"FilaDinamicaEncadeada.h"
+
+1634755654 c:\programming stuff\git\facom - ufu\algorithms and data structures\fila dinamica encadeada\filadinamicaencadeada.h
+
+1634756842 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\fila dinamica encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDinamicaEncadeada.h"
+
