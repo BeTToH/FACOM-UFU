@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634609006 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaEstatica.h"
+
+1634608046 c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex 1\pilhaestatica.h
+
+1634609069 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex 1\pilhaestatica.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaEstatica.h"
+

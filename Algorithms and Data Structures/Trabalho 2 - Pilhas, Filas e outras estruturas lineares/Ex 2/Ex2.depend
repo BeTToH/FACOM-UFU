@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1634695428 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"FilaESContador.h"
+
+1634689546 c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex2\filaescontador.h
+	<time.h>
+
+1634695711 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex1\ex2\filaescontador.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaESContador.h"
+
+1634781585 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex2\filaescontador.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaESContador.h"
+
+1635005570 c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex2\filaescontador.h
+	<time.h>
+
+1635002979 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"FilaESContador.h"
+

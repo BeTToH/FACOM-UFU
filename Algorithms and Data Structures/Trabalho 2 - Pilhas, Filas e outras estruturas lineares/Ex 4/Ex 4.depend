@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635010548 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"FPA_Produtos.h"
+
+1635010880 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex 4\fpa_produtos.c
+	<stdlib.h>
+	<time.h>
+	"FPA_Produtos.h"
+
+1635010902 c:\programming stuff\git\facom - ufu\algorithms and data structures\trabalho 2 - pilhas, filas e outras estruturas lineares\ex 4\fpa_produtos.h
+	<time.h>
+
