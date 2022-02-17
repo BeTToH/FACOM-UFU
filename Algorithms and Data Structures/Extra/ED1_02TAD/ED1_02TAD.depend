@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643237516 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\ed1_02tad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643236159 c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\ed1_02tad\matriz.h
+	<stdlib.h>
+	<stdio.h>
+
+1643236153 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\ed1_02tad\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+

@@ -1,5 +1,9 @@
 body{
     color: silver;
+    margin: 0;
+    line-height: 1.4rem;
+    font-family: "Helvetica Neue", Helvetica, serif;
+    background-color: #1A5354FF;
 }
 
 section {
@@ -35,12 +39,6 @@ li{
     color: white;
 }
 
-body{
-    margin: 0;
-    line-height: 1.4rem;
-    font-family: "Helvetica Neue", Helvetica, serif;
-    background-color: #1A5354FF;
-}
 header {
     display: inline-block;
     background-color: #3F4041FF;
