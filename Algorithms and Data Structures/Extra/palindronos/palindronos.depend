@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648182098 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\palindronos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"pilha.h"
+
+1648179572 c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\palindronos\fila.h
+
+1648179565 c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\palindronos\pilha.h
+
+1648180052 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\palindronos\pilha.c
+	<stdlib.h>
+	"pilha.h"
+
+1648181421 source:c:\programming stuff\git\facom - ufu\algorithms and data structures\extra\palindronos\fila.c
+	<stdlib.h>
+	"fila.h"
+
